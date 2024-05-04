@@ -1,0 +1,42 @@
+[
+	{
+		"item": "Milk",
+		"price": 0.89
+	},
+	{
+		"item": "Bread",
+		"price": 1.2
+	},
+	{
+		"item": "Apples",
+		"price": 2.0
+	},
+	{
+		"item": "Chicken",
+		"price": 5.5
+	},
+	{
+		"item": "Rice",
+		"price": 1.75
+	},
+	{
+		"item": "Eggs",
+		"price": 1.5
+	},
+	{
+		"item": "Potatoes",
+		"price": 0.8
+	},
+	{
+		"item": "Tomatoes",
+		"price": 2.3
+	},
+	{
+		"item": "Onions",
+		"price": 0.6
+	},
+	{
+		"item": "Cheese",
+		"price": 2.5
+	}
+]
