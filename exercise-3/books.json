@@ -3,19 +3,22 @@
 		"title": "Charlotte's Web",
 		"author": "E.B. White",
 		"numberOfPages": 192,
-		"genre": "Children's literature"
+		"genre": "Children's literature",
+		"image": "charlottes_web.jpg"
 	},
 	{
 		"title": "Harry Potter and the Sorcerer's Stone",
 		"author": "J.K. Rowling",
 		"numberOfPages": 309,
-		"genre": "Fantasy"
+		"genre": "Fantasy",
+		"image": "harry_potter.jpg"
 	},
 	{
 		"title": "The Very Hungry Caterpillar",
 		"author": "Eric Carle",
 		"numberOfPages": 26,
-		"genre": "Picture book"
+		"genre": "Picture book",
+		"image": "hungry_caterpillar.jpg"
 	},
 	{
 		"title": "Where the Wild Things Are",
@@ -33,7 +36,8 @@
 		"title": "Matilda",
 		"author": "Roald Dahl",
 		"numberOfPages": 240,
-		"genre": "Fantasy"
+		"genre": "Fantasy",
+		"image": "matilda.jpg"
 	},
 	{
 		"title": "Goodnight Moon",
